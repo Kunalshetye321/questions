@@ -1,0 +1,2 @@
+Q1)Filter Even Numbers from a List.
+Q2)Find Maximum in a List.
