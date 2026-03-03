@@ -16,7 +16,7 @@ public class ThirdAttempt {
             filterByColorOrWeight(apples, "Red", -1, true)
         );
 
-        System.err.println("Filter apple of 10kg: " + 
+        System.err.println("Filter apple of 10kg: " + ''
             filterByColorOrWeight(apples, "Red", 10, false)
         );
 
